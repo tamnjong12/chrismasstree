@@ -1,5 +1,5 @@
 package chrismasstree;
-//APP
+//App to print a christmass tree
 import java.util.Scanner;
 
 /**
